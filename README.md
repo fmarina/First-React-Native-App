@@ -1,3 +1,3 @@
-# First-React-Native-App
+# First React Native App
 
 React Native app created with Expo
